@@ -1,0 +1,12 @@
+{
+    "name": "com.github.mcmanning.debugtools",
+    "displayName": "Debug Tools",
+    "version": "0.1.0",
+    "unity": "2018.1",
+    "description": "Suite of extensions and components to ease debugging in Unity projects",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/McManning/DebugTools",
+        "revision":""
+    }
+}
